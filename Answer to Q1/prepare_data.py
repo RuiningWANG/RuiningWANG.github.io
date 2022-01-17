@@ -11,7 +11,8 @@ import matplotlib.pyplot as plt
 import random
 import numpy as np
 """
-This file is run in advance and no need for running again
+This file is run in advance and no need for running again.
+The produced files are added in the directory.
 """
 
 path ="../MNIST/"
